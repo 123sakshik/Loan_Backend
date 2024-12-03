@@ -1,0 +1,23 @@
+{
+    "development": {
+      "dialect": "mysql",
+      "host": "localhost",
+      "username": "root",
+      "password": "",
+      "database": "loan_database"
+    },
+    "test": {
+      "dialect": "mysql",
+      "host": "localhost",
+      "username": "root",
+      "password": "",
+      "database": "loan_database_test"
+    },
+    "production": {
+      "dialect": "mysql",
+      "host": "localhost",
+      "username": "root",
+      "password": "",
+      "database": "loan_database_production"
+    }
+  }
